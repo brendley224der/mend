@@ -1,8 +1,10 @@
 # mend
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/brendley224der/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/brendley224der/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node-22-green.svg)](https://nodejs.org/)
-[![make.fun](https://img.shields.io/badge/make.fun-hidden--spec--cli--01-blue.svg)](https://make.fun/competitions/hidden-spec-cli-01-run-20261122)
 
 `mend` applies an edit that an AI model wrote to a tree of text files. Models write
 edits in four formats — a unified diff (often with wrong line numbers), SEARCH/REPLACE
